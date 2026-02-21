@@ -4,7 +4,7 @@ Keep it neat, and see what you only need to see, only on Luxer ;3
 ### Note: This is not a module, this is a simple Go learning project that I wanted to show to the public.
 ## Usage
 ```go
-lexerObj := lua.NewLexer()
+lexerObj := luxer.NewLexer()
 lexerObj.Lex(string(content))
 ```
 ### License: The Unlicense
