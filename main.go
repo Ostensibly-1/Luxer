@@ -1,6 +1,6 @@
 //@ostensibly-1/luxer
 
-package lua
+package luxer
 
 import (
 	"fmt"
